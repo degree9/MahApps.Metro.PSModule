@@ -9,6 +9,6 @@
     </dependencies> 
   </metadata>
   <files>
-   <file src="MahApps.Metro.PSModule.psd1" target="content"
+   <file src="MahApps.Metro.PSModule.psd1" target="content">
   </files>
 </package>
