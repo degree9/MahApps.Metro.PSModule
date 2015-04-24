@@ -6,6 +6,7 @@
     <authors>mratzke</authors>
     <description>MahApps.Metro.PSModule</description>
     <dependencies>
+     <dependency id="ShowUI" />
     </dependencies> 
   </metadata>
   <files>
