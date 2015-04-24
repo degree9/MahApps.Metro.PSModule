@@ -9,7 +9,7 @@
     </dependencies> 
   </metadata>
   <files>
-   <file src="MahApps.Metro.PSModule.psd1" target="content" />
-   <file src="MahApps.Metro.PSModule.psm1" target="content" />
+   <file src="*.ps*1" target="content" />
+   <file src="tools\*" target="tools" />
   </files>
 </package>
