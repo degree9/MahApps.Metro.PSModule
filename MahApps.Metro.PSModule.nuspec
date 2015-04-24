@@ -11,6 +11,6 @@
     </dependencies> 
   </metadata>
   <files>
-   <file src="MahApps.Metro.PSModule.*" target="$targetbase$" />
+   <file src="MahApps.Metro.PSModule.*" target="tools" />
   </files>
 </package>
