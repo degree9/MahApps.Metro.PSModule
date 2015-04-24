@@ -9,7 +9,4 @@
      <dependency id="ShowUI" />
     </dependencies> 
   </metadata>
-  <files>
-   <file src="*.ps*1" target="content" />
-   </files>
 </package>
