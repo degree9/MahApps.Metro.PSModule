@@ -10,7 +10,4 @@
      <dependency id="Pester" />
     </dependencies> 
   </metadata>
-  <files>
-   <file src="MahApps.Metro.PSModule.*" target="tools" />
-  </files>
 </package>
