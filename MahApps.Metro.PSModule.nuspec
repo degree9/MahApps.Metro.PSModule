@@ -7,6 +7,7 @@
     <description>MahApps.Metro.PSModule</description>
     <dependencies>
      <dependency id="ShowUI" />
+     <dependency id="Pester" />
     </dependencies> 
   </metadata>
 </package>
